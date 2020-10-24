@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Tech Innovation
+- Renewable Energy
+- Healthy Food
+- Sustainability
