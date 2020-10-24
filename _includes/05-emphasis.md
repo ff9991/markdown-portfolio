@@ -1,4 +1,3 @@
-
 - SQL
 - Python
 - Tableau / Looker / Google Data Studio
