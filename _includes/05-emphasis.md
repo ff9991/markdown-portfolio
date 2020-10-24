@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Global Insights Manager at Google working with data to expand my perspective on the world's dynamics**
